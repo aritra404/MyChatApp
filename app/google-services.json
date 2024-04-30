@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586405028249",
+    "project_id": "mychatapp-55191",
+    "storage_bucket": "mychatapp-55191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586405028249:android:23a13da2744a3d178d3308",
+        "android_client_info": {
+          "package_name": "aritra.seal.mychatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqljqZPTcK4_IR8L5pIm1hK0Q3flNxyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
